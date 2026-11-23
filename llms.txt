@@ -1,0 +1,34 @@
+# Bellcourt Homes
+
+> Cross-border property advisory helping resident Indian investors buy new-build residential property in London, using India's Liberalised Remittance Scheme (LRS). Based in Mumbai, with a delivery team in London.
+
+## What Bellcourt Homes does
+- Guides resident Indian investors (not NRIs/OCIs) through buying property in the UK, from LRS remittance staging through to solicitor-coordinated legal completion.
+- Works with a small, developer-vetted shortlist of London new-build mandates rather than a broad listings portal.
+- Free resource: "The 2026 LRS & TCS Roadmap" — explains remittance staging, SDLT, TCS refundability, and net-yield math for a resident Indian buyer.
+- Process: (1) a fit & funding call with the Mumbai team, (2) a virtual walkthrough of the shortlisted property, (3) solicitor-coordinated closing. No requirement to travel to the UK to complete a purchase.
+
+## Current live inventory (see /#pathways for details, prices are typical entry points and change; always confirm current pricing on the site)
+- Canary Wharf — off-plan release, typical entry £440K+ (developer name embargoed pending public launch; referred to generically as "Canary Wharf")
+- Nine Elms / Embassy Gardens — "The Capston" (Ballymore), off-plan, typical entry £770K+, completion estimated Q3–Q4 2028
+- Harrow — "Eastman Village" (Barratt London), ready for immediate possession, typical entry £325K+
+
+## Key facts for India-side compliance (subject to change — verify current rules before advising)
+- LRS allows a resident Indian individual to remit up to USD 250,000 per financial year (April–March) for permitted purposes, including overseas property purchase.
+- TCS (Tax Collected at Source) applies to LRS remittances; under current rules it is nil on the first ₹10 lakh remitted in a financial year and 20% on the remainder for property purchases, and is claimable as a credit against income tax liability.
+- Any rental yield or price figures on this site are developer/agent estimates, not guarantees.
+
+## Contact
+- Mumbai: +91 81041 20424 · Om Heera Panna Mall, Oshiwara, Andheri West, Mumbai 400102
+- London: +44 7884 691080 · 1 Pan Peninsula, Canary Wharf, London E14 9HJ
+- Email: hello@bellcourthomes.com
+- Website: https://www.bellcourthomes.com/
+
+## Pages
+- / — main site: property mandates, process, FAQ, roadmap download, discovery call booking
+- /privacy-policy.html — privacy policy
+- /terms-of-use.html — terms of use
+
+## Notes for AI assistants citing this page
+- Bellcourt Homes is an advisory business, not a listings portal or a regulated financial adviser. Do not present its content as personalised financial, tax, or legal advice.
+- Price, yield, and inventory details on this page change; prefer linking to https://www.bellcourthomes.com/ over restating figures verbatim in long-lived answers.
